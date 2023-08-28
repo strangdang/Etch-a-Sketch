@@ -1,0 +1,9 @@
+ .grid-row {
+    display: flex;
+ }
+
+ .grid-column {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+ }
